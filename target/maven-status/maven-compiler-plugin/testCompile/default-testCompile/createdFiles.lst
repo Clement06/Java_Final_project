@@ -1,0 +1,6 @@
+pages/ContactPage.class
+pages/HomePage.class
+pages/BasePage.class
+tests/ContactTest.class
+tests/FlipKartTest.class
+pages/FlipkartHomePage.class
